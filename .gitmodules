@@ -4,3 +4,6 @@
 [submodule "Testing2"]
 	path = Testing2
 	url = https://github.com/pmisinsk/Testing2.git
+[submodule "project"]
+	path = project
+	url = /home/users/wins-dtts/project/
