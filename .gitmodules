@@ -1,0 +1,6 @@
+[submodule "Home_liquid"]
+	path = Home_liquid
+	url = https://pmisinsk@github.com/pmisinsk/Home_liquid.git
+[submodule "Testing2"]
+	path = Testing2
+	url = https://github.com/pmisinsk/Testing2.git
